@@ -1,0 +1,24 @@
+{
+  "name": "ddc-construction-skills",
+  "version": "2.1.0",
+  "description": "238 AI skills for construction & engineering from DataDrivenConstruction: BIM/IFC/CAD data extraction (Revit, IFC, DWG, DGN), CWICR cost estimation, QTO, 4D scheduling, clash detection, safety, analytics, ML, n8n automation, and OpenConstructionERP workflows.",
+  "author": {
+    "name": "DataDrivenConstruction",
+    "url": "https://datadrivenconstruction.io"
+  },
+  "homepage": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction",
+  "repository": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction",
+  "license": "See NOTICE.md in the upstream repository",
+  "keywords": [
+    "construction",
+    "bim",
+    "ifc",
+    "revit",
+    "cad",
+    "cost-estimation",
+    "cwicr",
+    "qto",
+    "scheduling",
+    "aec"
+  ]
+}

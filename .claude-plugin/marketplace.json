@@ -1,0 +1,20 @@
+{
+  "name": "ddc-marketplace",
+  "owner": {
+    "name": "Dhiraj Mangal (local packaging)",
+    "email": "dhirajmangal@gmail.com"
+  },
+  "metadata": {
+    "description": "Local marketplace packaging the DataDrivenConstruction skills as an installable Claude Code / Cowork plugin.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ddc-construction-skills",
+      "source": "./ddc-construction-skills",
+      "description": "238 construction/BIM/CAD/cost-estimation skills from DataDrivenConstruction.",
+      "version": "2.1.0",
+      "category": "construction"
+    }
+  ]
+}
